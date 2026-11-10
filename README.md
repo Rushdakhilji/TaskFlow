@@ -2,6 +2,10 @@
 
 TaskFlow is a full-stack task management application designed to help users organize their daily activities, manage priorities, track task progress, and stay productive through a clean and intuitive dashboard.
 
+## Application Preview
+
+![TaskFlow Dashboard](screenshots/taskflow-dashboard.png)
+
 ## Features
 
 - **Create Tasks:** Add new tasks with titles, descriptions, and priorities.
